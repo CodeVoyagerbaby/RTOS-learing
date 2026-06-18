@@ -1,0 +1,18 @@
+# Keil MDK-ARM 编译产物
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.htm
+*.build_log.htm
+*.dep
+*.lnp
+*.bak
+*_sct.Bak
+
+# IDE 临时文件
+*.uvguix.*
+*.uvoptx
+DebugConfig/

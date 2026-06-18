@@ -172,7 +172,7 @@ void StartDefaultTask(void *argument)
     osDelay(500);
   }
   /* USER CODE END StartDefaultTask */
-}
+} 
 
 /* USER CODE BEGIN Header_Task_H_Func */
 /**
